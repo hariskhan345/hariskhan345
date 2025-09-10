@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Haris Khan</h1>
-<h4 align="center">"Frontend Developer | Crafting Modern & Responsive Web Apps" "Passionate about React, JavaScript & Clean UI Design" "Turning Ideas into Interactive Experiences" "Frontend Developer | 1 Year of Experience in React & JS" "Building Scalable & User-Friendly Interfaces"</h4>
+<h5 align="center">"Frontend Developer | Crafting Modern & Responsive Web Apps" <br/> "Passionate about React, JavaScript & Clean UI Design" <br/>"Turning Ideas into Interactive Experiences"<br/> "Frontend Developer | 1 Year of Experience in React & JS"<br/> "Building Scalable & User-Friendly Interfaces"</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariskhan345&label=Profile%20views&color=0e75b6&style=flat" alt="hariskhan345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariskhan345&theme=dracula" alt="hariskhan345" /></a> </p>
