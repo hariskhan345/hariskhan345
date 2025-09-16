@@ -3,8 +3,7 @@
 <h3 align="center">"Frontend Developer | Crafting Modern & Responsive Web Apps" <br/> "Passionate about React, JavaScript & Clean UI Design" <br/>"Turning Ideas into Interactive Experiences"<br/> "Frontend Developer | 1 Year of Experience in React & JS"<br/> "Building Scalable & User-Friendly Interfaces"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariskhan345&label=Profile%20views&color=0e75b6&style=flat" alt="hariskhan345" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariskhan345&theme=dracula" alt="hariskhan345" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 - 👨‍💻 All of my projects are available at [https://hariskhanporfolio.vercel.app/](https://hariskhanporfolio.vercel.app/)
 
